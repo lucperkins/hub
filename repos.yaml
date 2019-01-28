@@ -58,6 +58,11 @@ repositories:
   maintainers:
     - name: Bitnami
       email: containers@bitnami.com
+- name: virtualkubelet
+  url: https://raw.githubusercontent.com/virtual-kubelet/virtual-kubelet/master/charts/
+  maintainers:
+    - email: junjiez@microsoft.com
+      name: Robbie Zhang
 - name: weave-flux
   url: https://weaveworks.github.io/flux/
   maintainers:
